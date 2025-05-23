@@ -4,7 +4,7 @@ A semantic HTML-only single-page CV project built as part of the [Frontend Proje
 
 ## Live Demo
 
-Check it out here: [https://your-username.vercel.app](https://your-username.vercel.app)
+Check it out here: [https://cv-kaisrm.vercel.app/](https://cv-kaisrm.vercel.app/)
 
 ## How to Run Locally
 
